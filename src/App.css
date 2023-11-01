@@ -27,7 +27,23 @@
 .App-link {
   color: #61dafb;
 }
-
+.tabla_general{
+  border: 1px solid black;
+}
+.espacio{
+  width: 100%;
+  height: 80px;
+}
+.tabla_general2{
+  background-color: transparent;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  
+}
+.contenedor{
+  width: 50%;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
